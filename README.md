@@ -8,8 +8,8 @@
 </div>
 
 
-<div align="center" justify-content="space-between">  
-<a href="https://www.instagram.com/vanderlaus)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<div align="center">  
+<a href="https://www.instagram.com/vanderlaus)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://www.linkedin.com/in/vanderlauschner" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
   
